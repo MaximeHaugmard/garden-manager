@@ -6,13 +6,6 @@
       "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_71c91ba0-8130-4d48-96a9-67bbb72c8221.git",
       "name": "GARDEN_MANAGER",
       "alias": "GARDEN_MANAGER"
-    },
-    {
-      "app_id": "app_ed64ccbd-d9ab-4d12-a877-6da83cd521d5",
-      "org_id": "user_1977db8c-8f06-46d9-ad0d-1329cfb72502",
-      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_ed64ccbd-d9ab-4d12-a877-6da83cd521d5.git",
-      "name": "GARDEN_MANAGER",
-      "alias": "GARDEN_MANAGER"
     }
   ]
 }
